@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @MvxaK
+/src/backend/database.py      @MvxaK
+/src/backend/routers/auth.py  @MvxaK
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @MvxaK
